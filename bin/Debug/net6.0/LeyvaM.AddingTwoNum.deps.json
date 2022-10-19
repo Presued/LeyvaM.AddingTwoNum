@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "LeyvaM.AddingTwoNum/1.0.0": {
+        "runtime": {
+          "LeyvaM.AddingTwoNum.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LeyvaM.AddingTwoNum/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

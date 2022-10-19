@@ -1,0 +1,15 @@
+/Users/manuel/Documents/LeyvaM.AddingTwoNum/bin/Debug/net6.0/LeyvaM.AddingTwoNum
+/Users/manuel/Documents/LeyvaM.AddingTwoNum/bin/Debug/net6.0/LeyvaM.AddingTwoNum.deps.json
+/Users/manuel/Documents/LeyvaM.AddingTwoNum/bin/Debug/net6.0/LeyvaM.AddingTwoNum.runtimeconfig.json
+/Users/manuel/Documents/LeyvaM.AddingTwoNum/bin/Debug/net6.0/LeyvaM.AddingTwoNum.dll
+/Users/manuel/Documents/LeyvaM.AddingTwoNum/bin/Debug/net6.0/LeyvaM.AddingTwoNum.pdb
+/Users/manuel/Documents/LeyvaM.AddingTwoNum/obj/Debug/net6.0/LeyvaM.AddingTwoNum.csproj.AssemblyReference.cache
+/Users/manuel/Documents/LeyvaM.AddingTwoNum/obj/Debug/net6.0/LeyvaM.AddingTwoNum.GeneratedMSBuildEditorConfig.editorconfig
+/Users/manuel/Documents/LeyvaM.AddingTwoNum/obj/Debug/net6.0/LeyvaM.AddingTwoNum.AssemblyInfoInputs.cache
+/Users/manuel/Documents/LeyvaM.AddingTwoNum/obj/Debug/net6.0/LeyvaM.AddingTwoNum.AssemblyInfo.cs
+/Users/manuel/Documents/LeyvaM.AddingTwoNum/obj/Debug/net6.0/LeyvaM.AddingTwoNum.csproj.CoreCompileInputs.cache
+/Users/manuel/Documents/LeyvaM.AddingTwoNum/obj/Debug/net6.0/LeyvaM.AddingTwoNum.dll
+/Users/manuel/Documents/LeyvaM.AddingTwoNum/obj/Debug/net6.0/refint/LeyvaM.AddingTwoNum.dll
+/Users/manuel/Documents/LeyvaM.AddingTwoNum/obj/Debug/net6.0/LeyvaM.AddingTwoNum.pdb
+/Users/manuel/Documents/LeyvaM.AddingTwoNum/obj/Debug/net6.0/LeyvaM.AddingTwoNum.genruntimeconfig.cache
+/Users/manuel/Documents/LeyvaM.AddingTwoNum/obj/Debug/net6.0/ref/LeyvaM.AddingTwoNum.dll
