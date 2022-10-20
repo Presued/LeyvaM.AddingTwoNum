@@ -13,3 +13,18 @@
 /Users/manuel/Documents/LeyvaM.AddingTwoNum/obj/Debug/net6.0/LeyvaM.AddingTwoNum.pdb
 /Users/manuel/Documents/LeyvaM.AddingTwoNum/obj/Debug/net6.0/LeyvaM.AddingTwoNum.genruntimeconfig.cache
 /Users/manuel/Documents/LeyvaM.AddingTwoNum/obj/Debug/net6.0/ref/LeyvaM.AddingTwoNum.dll
+/Users/aishamashrah/Documents/repository /LeyvaM.AddingTwoNum/bin/Debug/net6.0/LeyvaM.AddingTwoNum
+/Users/aishamashrah/Documents/repository /LeyvaM.AddingTwoNum/bin/Debug/net6.0/LeyvaM.AddingTwoNum.deps.json
+/Users/aishamashrah/Documents/repository /LeyvaM.AddingTwoNum/bin/Debug/net6.0/LeyvaM.AddingTwoNum.runtimeconfig.json
+/Users/aishamashrah/Documents/repository /LeyvaM.AddingTwoNum/bin/Debug/net6.0/LeyvaM.AddingTwoNum.dll
+/Users/aishamashrah/Documents/repository /LeyvaM.AddingTwoNum/bin/Debug/net6.0/LeyvaM.AddingTwoNum.pdb
+/Users/aishamashrah/Documents/repository /LeyvaM.AddingTwoNum/obj/Debug/net6.0/LeyvaM.AddingTwoNum.csproj.AssemblyReference.cache
+/Users/aishamashrah/Documents/repository /LeyvaM.AddingTwoNum/obj/Debug/net6.0/LeyvaM.AddingTwoNum.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aishamashrah/Documents/repository /LeyvaM.AddingTwoNum/obj/Debug/net6.0/LeyvaM.AddingTwoNum.AssemblyInfoInputs.cache
+/Users/aishamashrah/Documents/repository /LeyvaM.AddingTwoNum/obj/Debug/net6.0/LeyvaM.AddingTwoNum.AssemblyInfo.cs
+/Users/aishamashrah/Documents/repository /LeyvaM.AddingTwoNum/obj/Debug/net6.0/LeyvaM.AddingTwoNum.csproj.CoreCompileInputs.cache
+/Users/aishamashrah/Documents/repository /LeyvaM.AddingTwoNum/obj/Debug/net6.0/LeyvaM.AddingTwoNum.dll
+/Users/aishamashrah/Documents/repository /LeyvaM.AddingTwoNum/obj/Debug/net6.0/refint/LeyvaM.AddingTwoNum.dll
+/Users/aishamashrah/Documents/repository /LeyvaM.AddingTwoNum/obj/Debug/net6.0/LeyvaM.AddingTwoNum.pdb
+/Users/aishamashrah/Documents/repository /LeyvaM.AddingTwoNum/obj/Debug/net6.0/LeyvaM.AddingTwoNum.genruntimeconfig.cache
+/Users/aishamashrah/Documents/repository /LeyvaM.AddingTwoNum/obj/Debug/net6.0/ref/LeyvaM.AddingTwoNum.dll

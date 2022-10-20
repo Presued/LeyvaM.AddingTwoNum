@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/Users/manuel/Documents/LeyvaM.AddingTwoNum/LeyvaM.AddingTwoNum.csproj": {}
+    "/Users/aishamashrah/Documents/repository /LeyvaM.AddingTwoNum/LeyvaM.AddingTwoNum.csproj": {}
   },
   "projects": {
-    "/Users/manuel/Documents/LeyvaM.AddingTwoNum/LeyvaM.AddingTwoNum.csproj": {
+    "/Users/aishamashrah/Documents/repository /LeyvaM.AddingTwoNum/LeyvaM.AddingTwoNum.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/manuel/Documents/LeyvaM.AddingTwoNum/LeyvaM.AddingTwoNum.csproj",
+        "projectUniqueName": "/Users/aishamashrah/Documents/repository /LeyvaM.AddingTwoNum/LeyvaM.AddingTwoNum.csproj",
         "projectName": "LeyvaM.AddingTwoNum",
-        "projectPath": "/Users/manuel/Documents/LeyvaM.AddingTwoNum/LeyvaM.AddingTwoNum.csproj",
-        "packagesPath": "/Users/manuel/.nuget/packages/",
-        "outputPath": "/Users/manuel/Documents/LeyvaM.AddingTwoNum/obj/",
+        "projectPath": "/Users/aishamashrah/Documents/repository /LeyvaM.AddingTwoNum/LeyvaM.AddingTwoNum.csproj",
+        "packagesPath": "/Users/aishamashrah/.nuget/packages/",
+        "outputPath": "/Users/aishamashrah/Documents/repository /LeyvaM.AddingTwoNum/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/manuel/.nuget/NuGet/NuGet.Config"
+          "/Users/aishamashrah/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
